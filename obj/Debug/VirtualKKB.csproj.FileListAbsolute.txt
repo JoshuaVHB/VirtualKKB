@@ -1,0 +1,13 @@
+C:\Users\krakouk\source\repos\VirtualKKB\VirtualKKB\bin\Debug\VirtualKKB.exe.config
+C:\Users\krakouk\source\repos\VirtualKKB\VirtualKKB\bin\Debug\VirtualKKB.exe
+C:\Users\krakouk\source\repos\VirtualKKB\VirtualKKB\bin\Debug\VirtualKKB.pdb
+C:\Users\krakouk\source\repos\VirtualKKB\VirtualKKB\obj\Debug\VirtualKKB.csprojAssemblyReference.cache
+C:\Users\krakouk\source\repos\VirtualKKB\VirtualKKB\obj\Debug\VirtualKKB.Properties.Resources.resources
+C:\Users\krakouk\source\repos\VirtualKKB\VirtualKKB\obj\Debug\VirtualKKB.csproj.GenerateResource.cache
+C:\Users\krakouk\source\repos\VirtualKKB\VirtualKKB\obj\Debug\VirtualKKB.csproj.CoreCompileInputs.cache
+C:\Users\krakouk\source\repos\VirtualKKB\VirtualKKB\obj\Debug\VirtualKKB.exe
+C:\Users\krakouk\source\repos\VirtualKKB\VirtualKKB\obj\Debug\VirtualKKB.pdb
+C:\Users\krakouk\source\repos\VirtualKKB\VirtualKKB\obj\Debug\VirtualKKB.MainForm.resources
+C:\Users\krakouk\source\repos\VirtualKKB\VirtualKKB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\krakouk\source\repos\VirtualKKB\VirtualKKB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\krakouk\source\repos\VirtualKKB\VirtualKKB\obj\Debug\VirtualKKB.csproj.CopyComplete
